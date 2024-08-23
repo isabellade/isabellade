@@ -1,4 +1,5 @@
 ## Hi there 👋
+(Funfact: alguma coisa de errado aconteceu com o card, na verdade sou de São Bento do Sul haha)
 
 <!--
 **isabellade/isabellade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
